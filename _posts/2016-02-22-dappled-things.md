@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T19:36:50.900Z'
-dateModified: '2016-02-22T19:36:41.693Z'
-title: Gail Davis Armstrong
+datePublished: '2016-02-22T21:57:53.886Z'
+dateModified: '2016-02-22T21:57:53.681Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-22-dappled-things.md
 published: true
