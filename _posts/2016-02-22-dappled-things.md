@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T19:32:38.762Z'
-dateModified: '2016-02-22T19:32:22.204Z'
-title: Dappled Things
+datePublished: '2016-02-22T19:36:50.900Z'
+dateModified: '2016-02-22T19:36:41.693Z'
+title: Gail Davis Armstrong
 author: []
+sourcePath: _posts/2016-02-22-dappled-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-dappled-things.md
-published: true
 url: dappled-things/index.html
 _type: Article
 
