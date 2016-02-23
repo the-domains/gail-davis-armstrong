@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T14:46:27.884Z'
-dateModified: '2016-02-23T14:46:24.934Z'
+datePublished: '2016-02-23T20:05:01.823Z'
+dateModified: '2016-02-23T20:04:59.144Z'
 title: Photography
 author: []
+sourcePath: _posts/2016-02-23-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-photography.md
-published: true
 url: photography/index.html
 _type: Article
 
 ---
 How is this going to work for my photography? That is a good question.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29462303-067b-45f8-99b0-4eb4a8b4a4be.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b66fa5e7396beaa05a4f8a5b2c7349d978f0c5.jpg)
