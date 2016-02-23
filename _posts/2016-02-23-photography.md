@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:05:01.823Z'
-dateModified: '2016-02-23T20:04:59.144Z'
+datePublished: '2016-02-23T20:21:14.635Z'
+dateModified: '2016-02-23T20:08:26.039Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-02-23-photography.md
