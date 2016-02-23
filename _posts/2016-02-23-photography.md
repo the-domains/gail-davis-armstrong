@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T20:31:13.154Z'
-dateModified: '2016-02-23T20:26:42.613Z'
+datePublished: '2016-02-23T21:45:42.922Z'
+dateModified: '2016-02-23T21:40:44.871Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-02-23-photography.md
