@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gail Davis Armstrong]]></title>
         <description><![CDATA[Gail Davis Armstrong]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gail-davis-armstrong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 14:19:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 14:30:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gail-davis-armstrong/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing the Grid</p>]]></description>
-            <link>undefined3c2c633a-4197-4f69-8ca4-dc84abd4dc1f/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc7ab28-84e5-4896-bee8-7092ffa69450.jpg">]]></description>
+            <link>https://thegrid.ai/gail-davis-armstrong/3c2c633a-4197-4f69-8ca4-dc84abd4dc1f/index.html</link>
             <guid isPermaLink="false">3c2c633a-4197-4f69-8ca4-dc84abd4dc1f</guid>
-            <pubDate>Tue, 23 Feb 2016 14:19:02 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 14:30:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
