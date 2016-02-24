@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T14:36:04.123Z'
-dateModified: '2016-02-24T14:35:44.298Z'
+datePublished: '2016-02-24T14:43:08.301Z'
+dateModified: '2016-02-24T14:42:54.524Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-02-23-photography.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b66fa5e7396beaa05a4f8a5b2c7349d978f0c5.jpg)
 
-How is this going to work for my photography? That is a good question.
+* How is this going to work for my photography? That is a good question.
